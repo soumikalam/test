@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul,li {
+    list-style-type: none;
+}
+a {
+    text-decoration: none
+}
+.clr {
+    clear: both;
+}
+.container {
+    width: 100%;
+    margin: 0 auto;
+
+}
+body
+{
+    font-family: 'lato', sans-serif;
+
+}
+
+.banner{
+    width: 100%;
+    float: left;
+    background: url(backpic.jpg) no-repeat;
+    background-size: cover;
+    padding:120px 0px 90px 200px ;
+    
+}
+
+
+.left-side
+{
+    width: 50%;
+    float: left;
+    
+}
+
+
+
+.left-side h1
+{  padding-top: 110px;
+    color: #fff;
+    font-size: 40px;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+
+}
+.left-side .red
+{
+    color: rgb(34, 221, 17);
+}
+.left-side p
+{
+    color: rgb(34, 74, 207);
+    font-size: 15px;
+    padding-bottom: 30px;
+    text-transform: uppercase;
+}
+}
+.left-side ul{
+ padding: 10px 0px 50px;
+ 
+}
+
+.left-side ul i {
+    color: rgb(126, 10, 10);
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.left-side ul a{
+    color: rgb(78, 6, 6);
+    
+}
+.left-side button
+{
+    color: #fff;
+    background: rgb(245, 4, 4);
+    padding: 10px 20px;
+    margin-top: 30px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.right-side
+{
+    float: left;
+    width: 50%;
+
+}
+.form-main {
+	background-color:rgba(32, 161, 236, 0.89);
+	padding: 30px 30px 50px;
+    border-radius: 5px;
+	width: 500px;
+}
+.form-header h2
+{text-transform: uppercase;
+    color: #f9f9f9;
+    padding-bottom: 18px;
+    font-size: 35px;
+    text-align: center;
+}
+.form-header p
+{
+    color: #f9f9f9;
+    padding-bottom: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+.input {
+	color:#3c3c3c;
+	border-radius: 0;
+	line-height: 18px;
+	background-color: #fbfbfb;
+	padding: 13px  0px 13px;
+	margin-bottom: 25px;
+	width:100%;
+    border: 3px solid rgba(0,0,0,0);
+    font-family: 'lato', sans-serif;
+    font-weight:400;
+	font-size: 15px;
+    
+}
+
+
+
+
+
+
+
+input#submit
+{   text-align: center;
+	width: 100%;
+    font-weight: 200 ;
+	border: none;
+	cursor:pointer;
+	background-color: #0b1130;
+	color:white;
+	font-size:24px;
+	padding-top:22px;
+	padding-bottom:22px;
+    margin-top:-4px;
+    font-weight:700;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
